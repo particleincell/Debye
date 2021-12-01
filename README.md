@@ -1,2 +1,2 @@
-# ardPIC
-Arduino-based Particle-in-Cell (PIC) plasma simulation library
+# ardPSL
+Arduino-based plasma simulation library
