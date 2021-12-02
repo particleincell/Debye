@@ -1,2 +1,2 @@
-# ardPSL
-Arduino-based plasma simulation library
+# Debye
+Plasma simulation library for the Arduino
